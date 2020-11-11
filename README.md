@@ -1,2 +1,1 @@
-# portfolio
-My 2020 Portfolio 
+# Mimi Netto - 2020 Portfolio 
